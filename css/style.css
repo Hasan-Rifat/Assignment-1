@@ -107,7 +107,7 @@ img {
 /* developer section  */
 #devlopment {
   padding: 75px 0 75px 0;
-  background: url(images/shapes/shape-1.png);
+  background-image: url(images/shapes/shape-1.png);
   background-repeat: no-repeat;
   background-position: left center;
 }
