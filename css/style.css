@@ -1,0 +1,212 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+img {
+  max-width: 100%;
+}
+.hero-heading {
+  font-family: "Yeseva One", cursive;
+}
+
+.hero {
+  background: #fff;
+}
+.main {
+  padding: 20px 1%;
+  max-width: 1400px;
+  margin: auto;
+}
+.hero-sub {
+  display: flex;
+}
+.hero-left {
+  width: 70%;
+}
+.hero-right {
+  width: 30%;
+}
+.hero-text {
+  border-left: 4px solid #ff5959;
+}
+.hero-left h1 {
+  font-family: "Yeseva One", cursive;
+  font-size: 52px;
+  font-weight: 500;
+  padding-left: 15px;
+  line-height: 70px;
+}
+.hero-left h1 span {
+  color: #ffad5a;
+}
+.hero-left p {
+  font-size: 18px;
+  line-height: 32px;
+  color: #333333;
+  width: 471px;
+  padding: 20px 0;
+}
+.hero-left a {
+  padding: 10px 40px;
+  background: #ff5959;
+  text-decoration: none;
+  margin: 10px 0;
+  color: #fff;
+  border-radius: 5px;
+}
+
+/* mission section  */
+#mission {
+  background: #fdfdfd;
+  padding-bottom: 120px !important;
+}
+.mission {
+}
+.mission h1 {
+  text-align: center;
+  font-size: 52px;
+  font-weight: 700;
+  padding: 10px 0;
+  line-height: 70px;
+}
+.mission h1 span {
+  color: #ffad5a;
+}
+.mission-itmes {
+  display: flex;
+}
+.mission-1 {
+  width: 31%;
+  padding: 30px;
+  border-radius: 10%;
+  margin: 0 1%;
+}
+.mission-box-1 {
+  background: #edf5f6;
+}
+.mission-box-2 {
+  background: #ffeeee;
+}
+.mission-box-3 {
+  background: #fff4d6;
+}
+.mission-1 img {
+  width: 141px;
+  height: 141px;
+}
+.mission-1-text {
+}
+.mission-1-text h4 {
+  font-size: 24px;
+  color: #000;
+}
+.mission-1-text p {
+  font-size: 16px;
+  color: #424242;
+}
+
+/* developer section  */
+#devlopment {
+  padding: 75px 0 75px 0;
+  background: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+.developer-sub {
+  display: flex;
+}
+.developer-left {
+}
+.developer-right {
+  padding-left: 6%;
+}
+.developer-right h1 {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.developer-right h1 span {
+  color: #ff5959;
+}
+.developer-right p {
+  font-size: 18px;
+  line-height: 28px;
+  padding: 10px 0;
+}
+.developer-right a {
+  padding: 10px 40px;
+  background: #ff5959;
+  text-decoration: none;
+  margin: 10px 0;
+  color: #fff;
+  border-radius: 5px;
+}
+.developer-left img {
+  max-width: 400px;
+}
+
+.developer-right.global {
+  padding-left: 0 !important;
+  padding-right: 6%;
+}
+
+#global-community {
+  background: #fdfdfd;
+  padding: 120px 0 !important;
+}
+
+/* newsletter section  */
+#testimonials {
+}
+.testimonials-sub {
+}
+.testimonials-sub h1 {
+  text-align: center;
+  font-size: 38px;
+  font-weight: 700;
+  padding: 20px 0;
+  text-transform: uppercase;
+}
+
+.testimonials-sub h1 span {
+  font-weight: bold;
+  color: #ffad5a;
+}
+.testimonials-items {
+  display: flex;
+}
+.testimonials-item {
+  width: 31%;
+  text-align: center;
+}
+
+.testimonials-item img {
+  border-radius: 50%;
+  height: 236px;
+  overflow: hidden;
+}
+.testimonials-item h3 {
+  font-size: 28px;
+  padding: 0;
+  line-height: 0;
+}
+
+/* footer  */
+#footer {
+  background: #000;
+  padding: 40px 0;
+}
+
+.footer-text {
+  text-align: center;
+  color: #fff;
+}
+
+.footer-text h3 {
+  font-style: italic;
+  font-family: 'Lobster Two', cursive;
+  font-size: 48px;
+  line-height: 0;
+}
+.footer-text h3 span {
+  color: #ff5959;
+}
